@@ -27,7 +27,7 @@
 
 .header-link {
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -46,7 +46,7 @@ a {
 
 .main-text {
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     font-size: 48px;
     color: #e5e7eb;
     font-weight: bolder;
@@ -60,7 +60,7 @@ a {
     text-align: center;
     padding: 10px 20px;
     border-radius: 5px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     font-weight: bolder;
 
 }
@@ -102,7 +102,7 @@ a {
     font-size: 36px;
     color: #1F2937;
     font-weight: bolder;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     margin: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -119,7 +119,7 @@ a {
 
 .quote {
     font-size: 36px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     color: #1F2937;
     font-style: italic;
     font-weight: 10;
@@ -130,7 +130,7 @@ a {
 .quoteperson {
     margin-left: auto;
     margin-right: 50px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     font-size: 24px;
     color: #1F2937;
     font-weight: bolder;
@@ -148,7 +148,7 @@ footer {
     padding-bottom: 50px; 
     color: white;
     margin: 0;     
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto;
     margin-left: auto;
     margin-right: auto;
 }
